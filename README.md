@@ -7,6 +7,10 @@
 </div>
 <h3 align="center">GitHub Activity</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag1616sharma&theme=dark&background=0d1117&border=1f6feb&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag16sharma&theme=dark&background=0d1117&border=1f6feb&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
-
+<h3 align="center">Connect With Me</h3>
+<p align="center">
+  <a href=www.linkedin.com/in/chirag16sharma><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href=https://github.com/chirag16sharma><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
