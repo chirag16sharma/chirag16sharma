@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Chirag Sharma 👋</h1>
   
   <a href="https://www.linkedin.com/in/chirag16sharma" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=2nd-year+CSE+Student+%26+System+Developer;Cloud+Computing+Enthusiast;Building+something+impactful" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=2nd-year+CSE+Student+%26+System+Developer;Architecting+Cloud+Computing;Researching+on+AI/ML;Building+something+impactful" alt="Typing SVG" />
   </a>
 </div>
 <h3 align="center">GitHub Activity</h3>
